@@ -6,15 +6,15 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "小傅哥",
-    url: "https://mister-hope.com",
+    name: "科哒",
+    url: "https://www.kedayyds.top/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
-  repo: "fuzhengwei/xfg-resume-blog",
+  repo: "https://github.com/huangkemingyyds",
 
   docsDir: "src",
 

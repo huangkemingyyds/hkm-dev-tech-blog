@@ -1,0 +1,63 @@
+
+# Ignore all files in this directory
+*
+
+# Ignore all files in the directory "build"
+build/*
+
+# Ignore all files in the directory "dist"
+dist/*
+
+# Ignore all files in the directory "venv"
+venv/*
+
+# Ignore all files in the directory "node_modules"
+node_modules/*
+
+# Ignore all files in the directory "env"
+env/*
+
+# Ignore all files in the directory "tmp"
+tmp/*
+
+# Ignore all files in the directory "logs"
+logs/*
+
+# Ignore all files in the directory "data"
+data/*
+
+# Ignore all files in the directory "db"
+db/*
+
+# Ignore all files in the directory "uploads"
+uploads/*
+
+# Ignore all files in the directory "backups"
+backups/*
+
+# Ignore all files in the directory "cache"
+cache/*
+
+# Ignore all files in the directory "sessions"
+sessions/*
+
+# Ignore all files in the directory "config"
+config/*
+
+# Ignore all files in the directory "tests"
+tests/*
+
+# Ignore all files in the directory "docs"
+docs/*
+
+# Ignore all files in the directory "migrations"
+migrations/*
+
+# Ignore all files in the directory "public"
+public/*
+
+# Ignore all files in the directory "resources"
+resources/*
+
+
+

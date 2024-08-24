@@ -2,20 +2,20 @@
 home: true
 icon: home
 title: 主页
-heroImage: /logo.svg
+#heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 我的博客简历
-tagline: 您好，我叫小傅哥，毕业于🎓吉林大学。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V6 TEST
+heroText: 科哒的新世界技术之路
+tagline: 技术的星空之下，补补探索，留下足迹，分享和记录技术成长之路
 actions:
-  - text: 查看简历 👣
+  - text: 开始阅读 👣
     link: ./md/
     type: primary
 
-  - text: 我的项目 💐
-    link: https://openai.gaga.plus/
+#  - text: 我的项目 💐
+#    link: https://openai.gaga.plus/
 
 highlights:
   - header: 
@@ -37,10 +37,10 @@ highlights:
         details: 23年8月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
         
-      - title: SpringBoot Stater
-        icon: table-columns
-        details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+#      - title: SpringBoot Stater
+#        icon: table-columns
+#        details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
+#        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
 
 copyright: false
 footer: |-
