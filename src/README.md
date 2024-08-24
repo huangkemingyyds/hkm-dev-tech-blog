@@ -2,13 +2,13 @@
 home: true
 icon: home
 title: 主页
-#heroImage: /logo.svg
+heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 科哒的新世界技术之路
-tagline: 技术的星空之下，补补探索，留下足迹，分享和记录技术成长之路
+heroText: 科哒的星空世界技术之路
+tagline: 技术的星空之下，步步探索，留下足迹，分享和记录技术成长之路
 actions:
   - text: 开始阅读 👣
     link: ./md/
