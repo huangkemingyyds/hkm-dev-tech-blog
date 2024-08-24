@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # 设置默认的密钥文件路径
 KEY_PATH="$HOME/.ssh/id_rsa"
 
