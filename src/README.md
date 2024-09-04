@@ -54,7 +54,7 @@ highlights:
 
       - title: 源码贡献
         icon: fas fa-window-maximize fa-rotate-270
-        details: 先后提交了 4 PR，贡献了 5 commits，共计 1000+ LOC 的代码。
+        details: 先后提交了 5 PR，贡献了 6 commits，共计 1000+ LOC 的代码。
         link: https://github.com/alibaba/nacos/commits?author=huangkemingyyds
 
       - title: 贡献之星
